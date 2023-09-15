@@ -838,7 +838,7 @@ img {
     border-bottom: 2px solid white;
     color: white;
     width: 300px;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
   }
 
   .form-container input[type="email"]::placeholder {
