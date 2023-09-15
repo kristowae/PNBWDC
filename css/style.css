@@ -820,7 +820,7 @@ img {
   input[type="email"] {
     margin-right: 5%;
     margin-left: 0px;
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .form-container {
@@ -838,7 +838,7 @@ img {
     border-bottom: 2px solid white;
     color: white;
     width: 300px;
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .form-container input[type="email"]::placeholder {
